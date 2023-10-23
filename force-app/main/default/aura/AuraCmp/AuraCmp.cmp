@@ -1,7 +1,7 @@
 <aura:component implements="flexipage:availableForAllPageTypes">
     <aura:attribute name="selectedContact" type="String" />
 
-    <lightning:card title="This is Aura Component">
+    <lightning:card title=" Aura Component">
 
         <div>
             Selected Contact: {!v.selectedContact}
